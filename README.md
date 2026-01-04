@@ -1,9 +1,9 @@
 # Personal Portfolio Website
-Project Overview
+# Project Overview
 
 This repository contains the source code for my personal portfolio website, designed to showcase my skills, projects, and professional profile as a Software Engineer with interests in UI/UX design, Machine Learning, and Web Development. The website presents my work in a clean, modern, and responsive layout.
 
-Objectives
+# Objectives
 
 Create a professional online presence
 
@@ -13,7 +13,7 @@ Highlight technical skills and tools
 
 Provide easy access to contact and social profiles
 
-Tech Stack
+# Tech Stack
 
 HTML5 – Website structure
 
@@ -23,7 +23,7 @@ JavaScript – Interactivity
 
 Bootstrap 5 – Responsive design framework
 
-Project Structure
+# Project Structure
 portfolio-website/
 │── index.html
 │── assets/
@@ -31,7 +31,7 @@ portfolio-website/
 │   └── icons/
 │── README.md
 
-Features
+# Features
 
 Responsive and mobile-friendly UI
 
@@ -41,9 +41,8 @@ Smooth navigation with fixed navbar
 
 Organized sections (About, Skills, Projects, Contact)
 
-External links to GitHub and LinkedIn
 
-Key Sections
+# Key Sections
 
 Hero Section – Introduction and role overview
 
@@ -55,7 +54,7 @@ Projects – Real-world and academic projects
 
 Contact – Email and professional links
 
-Getting Started
+# Getting Started
 
 To run this project locally:
 
@@ -68,7 +67,7 @@ Navigate to the project directory
 
 Open index.html in any modern web browser
 
-Future Enhancements
+# Future Enhancements
 
 Add animations and transitions
 
@@ -78,11 +77,11 @@ Improve accessibility and SEO
 
 Add blog and certification sections
 
-Contributions
+# Contributions
 
 This project is currently a personal portfolio. However, suggestions and improvements are always welcome via issues or pull requests.
 
-Contact
+# Contact
 
 Name: Monica Aishwarya
 
